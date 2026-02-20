@@ -28,4 +28,9 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/jihoLee0818/Programmers_Badge_Generator/main/result/result.svg?cache_buster=1" alt="Programmers Badge" />
 </div>
-![](./profile-3d-contrib/profile-green-animate.svg)
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌿 3D Contributions </h2>
+</div>
+<div align="center">
+    <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3d github contribution graph" />
+</div>

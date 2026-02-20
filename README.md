@@ -22,3 +22,5 @@
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=jihoLee0818&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+[![Solved.ac
+leejiho0114@gmail.com](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})

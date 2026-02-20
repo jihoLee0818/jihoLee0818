@@ -1,6 +1,3 @@
-<div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=jihoLee0818's%20github&animation=twinkling&fontColor=000000&fontSize=60" />
-</div>
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 한줄 설명 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li>꾸준함을 무기로 항상 노력하는 개발자입니다 </div> 

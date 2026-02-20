@@ -28,3 +28,4 @@
 <div align="center">
     <img src="https://raw.githubusercontent.com/jihoLee0818/Programmers_Badge_Generator/main/result/result.svg?cache_buster=1" alt="Programmers Badge" />
 </div>
+![](./profile-3d-contrib/profile-green-animate.svg)

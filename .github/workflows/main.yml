@@ -1,7 +1,7 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
+  schedule: 
     - cron: "0 18 * * *"
   workflow_dispatch:
 
@@ -16,10 +16,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
-        run: |
-          git config user.name jihoLee0818
-          git config user.email jihoLee0818@github.com
-          git add -A .
-          git commit -m "generated"
-          git pull origin main --rebase
-          git push
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "generated 3d contrib"

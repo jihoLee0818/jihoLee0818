@@ -32,5 +32,5 @@
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🌿 3D Contributions </h2>
 </div>
 <div align="center">
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg?v=1" alt="3d github contribution graph" />
+    <img src="./profile-3d-contrib/profile-night-green.svg?v=1" alt="3d github contribution graph" />
 </div>

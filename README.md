@@ -22,4 +22,9 @@
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=jihoLee0818&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
-![Programmers Badge](https://raw.githubusercontent.com/jihoLee0818/Programmers_Badge_Generator/main/result/result.svg?cache_buster=1)
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📝 Algorithm </h2>
+</div>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/jihoLee0818/Programmers_Badge_Generator/main/result/result.svg?cache_buster=1" alt="Programmers Badge" />
+</div>
